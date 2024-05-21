@@ -1,3 +1,12 @@
+
+This prject is a sample of how to deplpy a few sample apps into:
+1. [Flux](https://flux.io) 
+2. [ArgoCD](https://argoproj.github.io/cd/)
+   
+
+You can you this repo to test and compare both tools. 
+
+```
 .
 ├── README.md
 ├── boot.sh
@@ -23,3 +32,4 @@
     └── ubuntu.yml
 
 6 directories, 17 files
+```
