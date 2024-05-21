@@ -13,7 +13,8 @@ Below you can see the in-argo folder that holds the [Kustomize](https://kustomiz
 ```
 .
 ├── README.md
-├── boot.sh
+├── boot-argocd.sh
+├── boot-flux.sh
 ├── clusters
 │   └── my-cluster
 │       ├── default
