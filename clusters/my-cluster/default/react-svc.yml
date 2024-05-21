@@ -18,7 +18,7 @@ spec:
       protocol: TCP
       targetPort: 8080
   selector:
-    app/name: multienv-nginx-react
+    app: multienv-nginx-react
   sessionAffinity: None
 status:
   loadBalancer: {}
