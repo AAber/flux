@@ -1,5 +1,5 @@
 
-This prject is a sample of how to deplpy a few sample apps into:
+This prject is a sample of how to deploy a few sample apps into:
 1. [Flux](https://flux.io) 
 2. [ArgoCD](https://argoproj.github.io/cd/)
    
