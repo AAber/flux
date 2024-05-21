@@ -1,5 +1,5 @@
 
-This prject is a sample of how to deploy a few test apps into:
+This project is a sample of how to deploy a few test apps into:
 1. [Flux](https://flux.io) 
 2. [ArgoCD](https://argoproj.github.io/cd/)
    
