@@ -4,7 +4,11 @@ This prject is a sample of how to deplpy a few sample apps into:
 2. [ArgoCD](https://argoproj.github.io/cd/)
    
 
-You can you this repo to test and compare both tools. 
+You can use this repo to test and compare both tools. 
+
+On top you will find the Flux clusters tree
+
+Below you can see the in-argo folder that holds the [Kustomize](https://kustomize.io/) setup files for ArgoCD.
 
 ```
 .
