@@ -4,3 +4,4 @@ resources:
 - ubuntu.yml
 - nginx.yml
 - react.yml
+- react-svc.yml
